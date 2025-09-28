@@ -6,8 +6,6 @@ Este repositório contém o **eBook “Cibersegurança para Iniciantes”**, cri
 Vivemos em uma era cada vez mais digital. Dados pessoais e corporativos trafegam por redes, dispositivos e aplicações conectadas em tempo real. Essa transformação traz inúmeros benefícios, mas também aumenta os riscos de ataques cibernéticos.  
 O objetivo deste eBook é **introduzir os principais conceitos, ameaças, boas práticas e tendências em cibersegurança** para iniciantes e profissionais que desejam se atualizar.
 
-## 📥 Download do eBook  
-➡️ [Clique aqui para baixar o PDF](Ebook_Ciberseguranca_com_Banner.pdf)
 
 ## 📝 Conteúdo  
 - O que é Segurança da Informação  
